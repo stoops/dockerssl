@@ -1,1 +1,2 @@
 # dockerssl
+./main.sh
